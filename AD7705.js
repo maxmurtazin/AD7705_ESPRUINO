@@ -1,5 +1,5 @@
 /////////////pins////////////////////////////////////////
-let pinMOSI = P2; //MOSI
+let pinMOSI = P2; //MOSIkkk
 let pinMISO = P3; //MISO
 let pinSPIClock = A5; //SCK
 let pinCS = P5; //CS 1
